@@ -29,7 +29,7 @@ const VideoPlayer = () => {
     <div className="video-player mt-3">
       <iframe
         className="video-player"
-        src={`https://www.youtube.com/embed/${watchId.id}`}
+        src={`https://tapenoads.com/v/${watchId.id}`}
         title="YouTube video player"
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
