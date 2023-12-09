@@ -1,4 +1,4 @@
-/**
+t/**
  * Videos Database can be added here.
  * You can add videos of your wish with different attributes
  * */
@@ -16,7 +16,7 @@ export const videos = [
       "Silverton Siege is an action thriller inspired by true events of 1980 South Africa. A trio of freedom fighters get into a collision course with the state after a failed sabotage mission, which turns into a bank hostage standoff. This film is inspired by the real life incident that sparked the global 'Free Mandela' movement and features Thabo Rametsi, Noxolo Dlamini and Stefan Erasmus, and Arnold Vosloo",
   },
   {
-    _id: "Rp34aDpWvpTZ2R",
+    _id: "eap0JoZdoxsYby1",
     title: "The Silence",
     imgurl:"https://nmovies.netlify.app/movies-images/english-movies/the-silence.jpg",
     viewCount: "7588994",
@@ -27,7 +27,7 @@ export const videos = [
       "When the world is under attack from terrifying creatures who hunt their human prey by sound, 16-year old Ally Andrews (Kiernan Shipka), who lost her hearing at 13, and her family seek refuge in a remote haven. But they discover a sinister cult who are eager to exploit Ally’s heightened senses. Based on the acclaimed novel, THE SILENCE is directed by John R. Leonetti (ANNABELLE) and stars Stanley Tucci, Kiernan Shipka, Miranda Otto, John Corbett, Kate Trotter and Kyle Breitkopf",
   },
   {
-    _id: "tFMo3UJ4B4g",
+    _id: "X1j02ORjbLUgDb",
     title: "Arrival (2016)",
     imgurl:"https://nmovies.netlify.app/movies-images/english-movies/arrival.jpg",
     viewCount: "23365125",
@@ -38,7 +38,7 @@ export const videos = [
       "Watch the new official movie trailer for Arrival. Coming to theatres November 11, 2016.\n\nWhen mysterious spacecrafts touch down across the globe, an elite team - lead by expert linguist Louise Banks (Amy Adams) - is brought together to investigate. As mankind teeters on the verge of global war, Banks and the team race against time for answers – and to find them, she will take a chance that could threaten her life, and quite possibly humanity.",
   },
   {
-    _id: "FDJDujWJhzw",
+    _id: "XoO7Jer4loTDJe8",
     title: "Fantasy Island",
     imgurl:"https://nmovies.netlify.app/movies-images/english-movies/fantasyisland.jpg",
     viewCount: "405359",
